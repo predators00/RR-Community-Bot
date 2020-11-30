@@ -9,3 +9,5 @@ Current features:
 - Post an article.
 
 [Link to Discord!](https://discord.gg/6fzHtJM)
+
+Use jjoo's fork if you want a working bot.
