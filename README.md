@@ -10,4 +10,4 @@ Current features:
 
 [Link to Discord!](https://discord.gg/6fzHtJM)
 
-Use jjoo's fork if you want a working bot.
+Use jjoo's fork if you want a working bot.(https://github.com/jjoo914/rival_regions_wrapper)
