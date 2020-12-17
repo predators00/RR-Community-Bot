@@ -8,6 +8,10 @@ Current features:
 - Login
 - Post an article.
 
+Upcoming:
+- rewrite of bot using new API
+- auto perks
+
 [Link to Discord!](https://discord.gg/6fzHtJM)
 
-Use jjoo's fork if you want a working bot.(https://github.com/jjoo914/rival_regions_wrapper)
+Use jjoo's fork if you want a working api.(https://github.com/jjoo914/rival_regions_wrapper)
